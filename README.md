@@ -4,6 +4,12 @@
 ## Contact
 📧 beocoding@gmail.com
 
+### Portfolio Contents
+- [Stream Processor](./stream-processor/): Rust-based real-time data processing system
+- [ERP System](./erp-system/): Django/Next.js e-commerce platform
+- [Lab Automation](./lab-automation/): C++ embedded systems
+
+###About Me
 ## Technical Skills
 
 ### Languages & Frameworks
@@ -53,9 +59,4 @@
   - Focus: Medical Devices/Rapid Prototyping
   - Microdevice Programming
   - Fabrication and Materials
-
-### Portfolio Contents
-- [Stream Processor](./stream-processor/): Rust-based real-time data processing system
-- [ERP System](./erp-system/): Django/Next.js e-commerce platform
-- [Lab Automation](./lab-automation/): C++ embedded systems
 
