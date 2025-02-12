@@ -13,10 +13,10 @@
 ### Languages & Frameworks
 - **Python** (15+ years): Django, Data Processing, Automation
 - **Rust** (4+ years): Systems Programming
-- **C++**: Embedded Systems, Lab Equipment Integration
-- **Go** (2+ years): Backend Services
-- **JavaScript**: React, Next.js
-- **Ruby**: Rails
+- **C++** (4+ years): Embedded Systems, Computational Analysis/Data Processing
+- **Go** (1 year): Backend Services
+- **JavaScript**(1 year): React, Next.js
+- **Ruby**(1 year): Rails
 
 ### Development Focus
 - **Backend:** Django, Rails, RESTful APIs
@@ -28,7 +28,7 @@
 ### Operations Manager & Developer | KoExpo LLC
 *January 2022 - December 2024*
 - Led operations for international e-commerce logistics
-- Developed internal ERP system (6 months):
+- Developed internal ERP system (12 months):
   - Built Django backend with REST APIs
   - Implemented Next.js frontend
   - Designed database architecture
