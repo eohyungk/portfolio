@@ -14,9 +14,9 @@
 - **Python** (15+ years): Django, Data Processing, Automation
 - **Rust** (4+ years): Systems Programming
 - **C++** (4+ years): Embedded Systems, Computational Analysis/Data Processing
-- **Go** (1 year): Backend Services
-- **JavaScript**(1 year): React, Next.js
-- **Ruby**(1 year): Rails
+- **Go** (1 year): Cloud System and Networking
+- **JavaScript**(1 year): Frontend Development with React, Next.js
+- **Ruby**(1 year): Systems Prototyping with Rails
 
 ### Development Focus
 - **Backend:** Django, Rails, RESTful APIs
