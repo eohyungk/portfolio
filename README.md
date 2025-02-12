@@ -5,9 +5,7 @@
 📧 beocoding@gmail.com
 
 ## Portfolio Projects
-- [Stream Processor](./stream-processor/): Rust-based real-time data processing system
-- [ERP System](./erp-system/): Django/Next.js e-commerce platform
-- [Lab Automation](./lab-automation/): C++ embedded systems
+- [Stream Processor](./stream-processor/): A real-time data processing system for redis, with single-threaded concurrency (async/await)
 
 ## Technical Skills
 ### Languages & Frameworks
