@@ -41,23 +41,6 @@
 - Developed equipment control software
 - Automated imaging analysis
 
-## Projects
-
-### Enterprise Resource Planning System
-- **Tech Stack:** Django, Next.js
-- **Features:** 
-  - Inventory management
-  - Order processing
-  - Logistics automation
-  - API integration
-
-### Laboratory Systems
-- **Tech Stack:** C++, Python
-- **Features:**
-  - Microdevice control
-  - Data acquisition
-  - Analysis automation
-
 ## Education
 - Self-taught in:
   - Web Development
