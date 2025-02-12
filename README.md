@@ -4,14 +4,12 @@
 ## Contact
 📧 beocoding@gmail.com
 
-### Portfolio Contents
+## Portfolio Projects
 - [Stream Processor](./stream-processor/): Rust-based real-time data processing system
 - [ERP System](./erp-system/): Django/Next.js e-commerce platform
 - [Lab Automation](./lab-automation/): C++ embedded systems
 
-###About Me
 ## Technical Skills
-
 ### Languages & Frameworks
 - **Python** (15+ years): Django, Data Processing, Automation
 - **Rust** (4+ years): Systems Programming
@@ -27,7 +25,6 @@
 - **Embedded:** Microdevice Programming, Hardware Integration
 
 ## Professional Experience
-
 ### Operations Manager & Developer | KoExpo LLC
 *January 2022 - December 2024*
 - Led operations for international e-commerce logistics
@@ -59,4 +56,3 @@
   - Focus: Medical Devices/Rapid Prototyping
   - Microdevice Programming
   - Fabrication and Materials
-
