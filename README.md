@@ -5,7 +5,7 @@
 📧 beocoding@gmail.com
 
 ## Portfolio Projects
-- [Stream Processor](./async-redis/): Asynchronous Redis stream processing system built with Rust
+- [Stream Processor](https://github.com/eohyungk/async-redis): Asynchronous Redis stream processing system built with Rust
 
 ## Technical Skills
 ### Languages & Frameworks
