@@ -5,7 +5,7 @@
 📧 beocoding@gmail.com
 
 ## Portfolio Projects
-- [Stream Processor](./stream-processor/): A real-time data processing system for redis, with single-threaded concurrency (async/await)
+- [Stream Processor](./stream-processor/): Asynchronous Redis stream processing system built with Rust
 
 ## Technical Skills
 ### Languages & Frameworks
