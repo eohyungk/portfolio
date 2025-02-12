@@ -1,6 +1,9 @@
 # Brandon Eo
 > Self-Taught Developer | Rapid Prototyping Engineer
 
+## Contact
+📧 beocoding@gmail.com
+
 ## Technical Skills
 
 ### Languages & Frameworks
@@ -51,5 +54,8 @@
   - Microdevice Programming
   - Fabrication and Materials
 
-## Contact
-📧 beocoding@gmail.com
+### Portfolio Contents
+- [Stream Processor](./stream-processor/): Rust-based real-time data processing system
+- [ERP System](./erp-system/): Django/Next.js e-commerce platform
+- [Lab Automation](./lab-automation/): C++ embedded systems
+
