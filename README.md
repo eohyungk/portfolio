@@ -1,9 +1,6 @@
 # Brandon Eo
 > Self-Taught Developer | Rapid Prototyping Engineer
 
-## Contact
-📧 beocoding@gmail.com
-
 ## About Me
 I'm a self-taught developer with a foundation built from real-world curiosity rather than formal education. As a child, I tinkered with code to control robot kits, and as a teen, I immersed myself in Python—developing hobby projects, studying databases, and creating personal applications. My journey deepened in college when, as a biomedical engineer, I explored microcontrollers and medical devices. This exposure led me to data analysis using tools like MATLAB, TensorFlow, and OpenCV.
 
@@ -78,3 +75,6 @@ I aim to be right, not fast.
   - Focus: Medical Devices/Rapid Prototyping
   - Microdevice Programming
   - Fabrication and Materials
+
+## Contact
+📧 beocoding@gmail.com
