@@ -18,63 +18,53 @@ I aim to be right, not fast.
 - [MaemIO](https://github.com/eohyungk/maemio): A high through-put Rust-based transactional key-value store for embedded systems
   
 - Custom Backend Webserver Design Series:
-  
   - [Web App Auth Core](https://github.com/eohyungk/webapp-auth): Authentication and security for backend webservers
-    
-  - [Web App RPC Core](https://github.com/eohyungk/webapp-rpc-framework): Rpc Core library that handles base constructs and macros for setting up JSON RPC for webservers.
-    JSON RPC 2.0 compliant (https://www.jsonrpc.org/specification)
-  
+  - [Web App RPC Core](https://github.com/eohyungk/webapp-rpc-framework): RPC Core library that handles base constructs and macros for setting up JSON RPC for webservers. JSON RPC 2.0 compliant
   - [Web App Framework](https://github.com/eohyungk/webapp-framework): Custom Rust Design for backend web server
-    
   - [Web App Core](https://github.com/eohyungk/webapp-core): Core library that handles base constructs and functionality for models, context, etc.
-    
-## Technical Skills
-### Languages & Frameworks
-- **Python** (15+ years): Django, Data Processing, Automation
-- **Rust** (4+ years): Systems Programming
-- **C++** (4+ years): Embedded Systems, Computational Analysis/Data Processing
-- **Go** (1 year): Cloud System and Networking
-- **JavaScript**(1 year): Frontend Development with React, Next.js
-- **Ruby**(1 year): Systems Prototyping with Rails
-
-### Development Focus
-- **Backend:** Django, Rails, RESTful APIs
-- **Frontend:** React, Next.js, SPA Architecture
-- **Systems:** Network Engineering, Data Engineering
-- **Embedded:** Microdevice Programming, Hardware Integration
 
 ## Professional Experience
-### Operations Manager & Developer | KoExpo LLC
-*January 2022 - December 2024*
-- Led operations for international e-commerce logistics
-- Developed internal ERP system (12 months):
-  - Built Django backend with REST APIs
-  - Implemented Next.js frontend
-  - Designed database architecture
-  - Automated workflow processes
 
-### Research Experience
-**Biomedical Engineer | Harvard's Wyss Institute**
-*July 2018 - December 2018*
-- Programmed microdevices using C++
-- Developed data analysis pipelines
-- Automated lab equipment interfaces
+### Operations Manager | KoExpo LLC
+*Jan 2022 - Dec 2024*
+- Led development of company ERP system using React/Next.js frontend and Django backend
+- Implemented microservice architecture with CDN and reverse proxy layer
+- Managed end-to-end logistics operations and automated workflow processes
 
-**Research Data Analyst | Canon Healthcare Optics**
-*July 2017 - December 2017*
-- Created data processing systems
-- Developed equipment control software
-- Automated imaging analysis
+### Biomedical Engineer | Harvard's Wyss Institute
+*Jul 2018 - Dec 2018*
+- Developed medical device prototypes using sensor integration
+- Created data analysis pipelines for performance optimization
+
+### Previous Roles
+- Biomedical Engineering Trainee at Canon Healthcare Optics Research Lab
+- R&D Assistant at Northeastern's Marine Science Center
+
+## Technical Skills
+
+### Software Development
+- **Languages**: JavaScript, Python, C++, Rust
+- **Frontend**: React, Next.js, Svelte, Leptos
+- **Backend**: Django, Node.js, Express, Fastify, Tauri
+- **Databases**: PostgreSQL, MySQL, SQLite, SurrealDB
+
+### Systems & Graphics
+- **Graphics**: OpenGL, Vulkan, Unreal Engine, Bevy
+- **Computer Vision**: OpenCV, TensorFlow
+- **Hardware**: ESP32, Arduino, Raspberry Pi
+- **Protocols**: I2C, REST, RPC
+
+### Engineering
+- Machine shop certified
+- FDM/SLA 3D printing
+- CAD (SolidWorks, AutoCAD)
+- Sensor integration
+- Prototyping
 
 ## Education
-- Self-taught in:
-  - Web Development
-  - Data Engineering
-  - Network Architecture
-- BS in Bioengineering, Northeastern University
-  - Focus: Medical Devices/Rapid Prototyping
-  - Microdevice Programming
-  - Fabrication and Materials
+**BS in Bioengineering** | Northeastern University
+- Senior Thesis: Phone-based blood pressure monitoring system using computer vision and machine learning
+- Developed precision measurement algorithms and signal processing pipelines
 
 ## Contact
-📧 beocoding@gmail.com
+📧 beocoding@gmail.com | 📱 (201) 783-6232 | 📍 Washington Township, NJ
