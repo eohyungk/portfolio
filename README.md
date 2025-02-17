@@ -4,6 +4,17 @@
 ## Contact
 📧 beocoding@gmail.com
 
+## About Me
+I'm a self-taught developer with a foundation built from real-world curiosity rather than formal education. As a child, I tinkered with code to control robot kits, and as a teen, I immersed myself in Python—developing hobby projects, studying databases, and creating personal applications. My journey deepened in college when, as a biomedical engineer, I explored microcontrollers and medical devices. This exposure led me to data analysis using tools like MATLAB, TensorFlow, and OpenCV.
+
+The evolution continued when I ventured into game design with Unity. This phase sharpened my focus on performance and the nuances of different programming languages, eventually guiding me to learn Rust. Post-college, working in e-commerce logistics opened my eyes to the transformative power of automation. I began developing an ERP system using a Python and JavaScript stack, only to find that rapid deployment often came with hidden costs—sluggish performance and expensive maintenance.
+
+Determined to overcome these issues, I leveraged my background as a hardware engineer to design better systems as a software engineer, so far leading to success: I began to design products from the ground up in Rust, achieving substantial improvements in speed and cost efficiency.
+
+My design philosophy is clear: while rushing to produce a minimum viable product is common, the short-term savings are usually eclipsed by the long-term challenges of maintenance and debugging.
+
+I aim to be right, not fast.
+
 ## Portfolio Projects
 - [Stream Processor](https://github.com/eohyungk/async-redis): Asynchronous Redis stream processing system built with Rust
   
