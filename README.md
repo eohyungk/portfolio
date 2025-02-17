@@ -6,7 +6,7 @@
 
 ## Portfolio Projects
 - [Stream Processor](https://github.com/eohyungk/async-redis): Asynchronous Redis stream processing system built with Rust
-- [MaemIO] (https://github.com/eohyungk/maemio): 
+- [MaemIO](https://github.com/eohyungk/maemio): A high through-put Rust-based transactional key-value store for embedded systems 
 ## Technical Skills
 ### Languages & Frameworks
 - **Python** (15+ years): Django, Data Processing, Automation
