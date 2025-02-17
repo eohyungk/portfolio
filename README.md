@@ -6,13 +6,20 @@
 
 ## Portfolio Projects
 - [Stream Processor](https://github.com/eohyungk/async-redis): Asynchronous Redis stream processing system built with Rust
+  
 - [MaemIO](https://github.com/eohyungk/maemio): A high through-put Rust-based transactional key-value store for embedded systems
+  
 - Custom Backend Webserver Design Series:
+  
   - [Web App Auth Core](https://github.com/eohyungk/webapp-auth): Authentication and security for backend webservers
+    
   - [Web App RPC Core](https://github.com/eohyungk/webapp-rpc-framework): Rpc Core library that handles base constructs and macros for setting up JSON RPC for webservers.
     JSON RPC 2.0 compliant (https://www.jsonrpc.org/specification)
-  - [Web App Framework](https://github.com/eohyungk/webapp-framework): Custom Rust Design for backend web server 
-  - [Web App Core](https://github.com/eohyungk/webapp-core): Core library that handles base constructs and functionality for models, context, etc. 
+  
+  - [Web App Framework](https://github.com/eohyungk/webapp-framework): Custom Rust Design for backend web server
+    
+  - [Web App Core](https://github.com/eohyungk/webapp-core): Core library that handles base constructs and functionality for models, context, etc.
+    
 ## Technical Skills
 ### Languages & Frameworks
 - **Python** (15+ years): Django, Data Processing, Automation
